@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FOCUS",
+  "base_artist": "Hearts2Hearts",
+  "createdAt": "2025-12-03T07:12:28.458337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/01_Focus_On_Me_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/02_Focus_On_Me_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In Soft Focus Feat. Ariel Pink and Elzhi",
+      "artist": "Lushlife",
+      "has_synced": true,
+      "path": "select/03_In_Soft_Focus_Feat._Ariel_Pink_and_Elzhi_Lushlife.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In Soft Focus",
+      "artist": "Lushlife",
+      "has_synced": true,
+      "path": "select/04_In_Soft_Focus_Lushlife.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Out of Focus",
+      "artist": "Love Battery",
+      "has_synced": false,
+      "path": "select/05_Out_of_Focus_Love_Battery.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1000 Miles (feat. Sub Focus)",
+      "artist": "Machinedrum",
+      "has_synced": false,
+      "path": "select/06_1000_Miles_(feat._Sub_Focus)_Machinedrum.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "Rico Nasty",
+      "has_synced": true,
+      "path": "select/07_Focus_On_Me_Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Focus",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_Focus_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Out of Focus",
+      "artist": "Mick Jagger",
+      "has_synced": true,
+      "path": "select/09_Out_of_Focus_Mick_Jagger.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Out Of Focus (LP Version)",
+      "artist": "Mick Jagger",
+      "has_synced": true,
+      "path": "select/10_Out_Of_Focus_(LP_Version)_Mick_Jagger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aliens (Sub Focus remix)",
+      "artist": "Dr. Octagon",
+      "has_synced": false,
+      "path": "select/11_Aliens_(Sub_Focus_remix)_Dr._Octagon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Focus",
+      "artist": "Arca",
+      "has_synced": false,
+      "path": "select/12_Focus_Arca.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "MARUV",
+      "has_synced": true,
+      "path": "select/13_Focus_On_Me_MARUV.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Focus On Me - (Strip Version) [Bonus Track]",
+      "artist": "MARUV",
+      "has_synced": false,
+      "path": "select/14_Focus_On_Me_-_(Strip_Version)_[Bonus_Track]_MARUV.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Focus",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/15_Focus_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Frame And Focus",
+      "artist": "Lights",
+      "has_synced": true,
+      "path": "select/16_Frame_And_Focus_Lights.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Twerk - Sub Focus Remix",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/17_Twerk_-_Sub_Focus_Remix_Basement_Jaxx.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FOCUS",
+      "artist": "Hearts2Hearts",
+      "has_synced": false,
+      "path": "select/pl_01_FOCUS_Hearts2Hearts.txt"
+    }
+  ]
+}
